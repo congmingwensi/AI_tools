@@ -1,0 +1,8 @@
+requests
+Pillow
+numpy
+easyocr
+pyautogui
+mutagen
+wave
+tkinter
