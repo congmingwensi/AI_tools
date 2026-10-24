@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPT 纳西妲自动朗读</string>
+    <string name="service_name">GPT 纳西妲自动朗读</string>
+    <string name="service_description">仅读取 ChatGPT 当前窗口的最新完整助手回答，并可发送到用户配置的 TTS 服务。</string>
+</resources>

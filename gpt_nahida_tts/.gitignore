@@ -1,0 +1,14 @@
+/build/
+*.apk
+*.idsig
+*.keystore
+*.jks
+nahida_tts_token.txt
+*.local.*
+/local.properties
+/cpolar.yml
+/cpolar.yaml
+*.log
+__pycache__/
+/phone_cleanup_backup/
+/chatgpt-accessibility-*.json
